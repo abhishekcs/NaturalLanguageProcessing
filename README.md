@@ -1,5 +1,5 @@
 # NaturalLanguageProcessing
-This folder contains the assignments for the course CS388 - Natural Language Processing being taught in Spring 2016
+This folder contains the assignments for the course CS388 - Natural Language Processing being taught in Spring 2016 (https://www.cs.utexas.edu/~mooney/cs388/)
 
 ## Bidirectional Language Models
 2 new files have been added to the ./nlp/lm directory.
