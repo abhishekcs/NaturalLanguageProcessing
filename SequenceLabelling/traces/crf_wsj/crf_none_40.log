@@ -1,0 +1,42 @@
+000 (7317.003.000) 03/07 13:33:26 Job submitted from host: <128.83.120.146:34408>
+...
+001 (7317.003.000) 03/07 13:33:36 Job executing on host: <128.83.139.143:34441>
+...
+006 (7317.003.000) 03/07 13:33:45 Image size of job updated: 102604
+	3  -  MemoryUsage of job (MB)
+	2248  -  ResidentSetSize of job (KB)
+...
+022 (7317.003.000) 03/07 13:39:56 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot4@angrist-16.cs.utexas.edu <128.83.139.143:34441>
+...
+023 (7317.003.000) 03/07 13:39:58 Job reconnected to slot4@angrist-16.cs.utexas.edu
+    startd address: <128.83.139.143:34441>
+    starter address: <128.83.139.143:50589>
+...
+006 (7317.003.000) 03/07 13:43:46 Image size of job updated: 37035476
+	1120  -  MemoryUsage of job (MB)
+	1146036  -  ResidentSetSize of job (KB)
+...
+001 (7317.003.000) 03/07 14:15:45 Job executing on host: <128.83.139.143:34441>
+...
+006 (7317.003.000) 03/07 14:20:53 Image size of job updated: 37500000
+	4112  -  MemoryUsage of job (MB)
+	4210056  -  ResidentSetSize of job (KB)
+...
+005 (7317.003.000) 03/07 14:54:38 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:38:39, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:38:39, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10       10   7541092
+	   Gpus                 :                           0
+	   Memory (MB)          :     4112     1221      4027
+...

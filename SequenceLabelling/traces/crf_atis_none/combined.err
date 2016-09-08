@@ -1,0 +1,151 @@
+==> test1.err <==
+getValue() (loglikelihood, optimizable by label likelihood) = -559.4982159992582
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=40 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9985685657028343
+Testing accuracy=0.9290697674418604
+Out of Vocabulary Accuracy: 0.3333333333333333
+Total number of Test Tokens: 860
+OOV Tokens: 24
+Percentage: 2.7906976744186047
+
+==> test10.err <==
+getValue() (loglikelihood, optimizable by label likelihood) = -549.8167672612142
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=40 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988597491448119
+Testing accuracy=0.9289940828402367
+Out of Vocabulary Accuracy: 0.23076923076923078
+Total number of Test Tokens: 845
+OOV Tokens: 26
+Percentage: 3.076923076923077
+
+==> test2.err <==
+getValue() (loglikelihood, optimizable by label likelihood) = -536.0517234924862
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=40 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9982578397212544
+Testing accuracy=0.9163916391639164
+Out of Vocabulary Accuracy: 0.19047619047619047
+Total number of Test Tokens: 909
+OOV Tokens: 21
+Percentage: 2.31023102310231
+
+==> test3.err <==
+getValue() (loglikelihood, optimizable by label likelihood) = -553.4853759095611
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=40 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9991418764302059
+Testing accuracy=0.9253208868144691
+Out of Vocabulary Accuracy: 0.27586206896551724
+Total number of Test Tokens: 857
+OOV Tokens: 29
+Percentage: 3.38389731621937
+
+==> test4.err <==
+getValue() (loglikelihood, optimizable by label likelihood) = -559.3672998693619
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=40 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988541965052994
+Testing accuracy=0.925754060324826
+Out of Vocabulary Accuracy: 0.2692307692307692
+Total number of Test Tokens: 862
+OOV Tokens: 26
+Percentage: 3.0162412993039442
+
+==> test5.err <==
+getValue() (loglikelihood, optimizable by label likelihood) = -538.8834013122251
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=40 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9994266055045872
+Testing accuracy=0.923699421965318
+Out of Vocabulary Accuracy: 0.25925925925925924
+Total number of Test Tokens: 865
+OOV Tokens: 27
+Percentage: 3.121387283236994
+
+==> test6.err <==
+getValue() (loglikelihood, optimizable by label likelihood) = -549.2777693366925
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=40 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9991532599491956
+Testing accuracy=0.9234567901234568
+Out of Vocabulary Accuracy: 0.28
+Total number of Test Tokens: 810
+OOV Tokens: 25
+Percentage: 3.0864197530864197
+
+==> test7.err <==
+CRF finished one iteration of maximizer, i=0
+CRF training has converged, i=0
+Evaluator iteration=40 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9985644559287971
+Testing accuracy=0.9367816091954023
+Out of Vocabulary Accuracy: 0.38095238095238093
+Total number of Test Tokens: 870
+OOV Tokens: 21
+Percentage: 2.413793103448276
+
+==> test8.err <==
+getValue() (loglikelihood, optimizable by label likelihood) = -546.9542809753268
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=40 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9985718366181091
+Testing accuracy=0.9272300469483568
+Out of Vocabulary Accuracy: 0.20689655172413793
+Total number of Test Tokens: 852
+OOV Tokens: 29
+Percentage: 3.403755868544601
+
+==> test9.err <==
+getValue() (loglikelihood, optimizable by label likelihood) = -545.160424276902
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=40 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988489208633093
+Testing accuracy=0.9191343963553531
+Out of Vocabulary Accuracy: 0.14814814814814814
+Total number of Test Tokens: 878
+OOV Tokens: 27
+Percentage: 3.075170842824601
+
+
+
+real	0m55.724s
+user	1m10.675s
+sys	0m0.634s
+
+real	0m55.640s
+user	1m9.855s
+sys	0m0.720s
+
+real	0m56.925s
+user	1m11.973s
+sys	0m0.729s
+
+real	0m57.164s
+user	1m6.695s
+sys	0m0.709s
+
+real	0m57.698s
+user	1m12.468s
+sys	0m0.763s
+
+real	0m56.413s
+user	1m12.109s
+sys	0m0.559s
+
+real	0m56.865s
+user	1m9.627s
+sys	0m0.723s
+
+real	0m57.053s
+user	1m10.719s
+sys	0m0.784s
+
+real	0m57.561s
+user	1m12.956s
+sys	0m0.556s
+
+real	0m55.303s
+user	1m5.170s
+sys	0m0.602s

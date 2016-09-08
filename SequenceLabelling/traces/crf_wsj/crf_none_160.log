@@ -1,0 +1,36 @@
+000 (7317.006.000) 03/07 13:33:26 Job submitted from host: <128.83.120.146:34408>
+...
+001 (7317.006.000) 03/07 13:33:36 Job executing on host: <128.83.139.143:34441>
+...
+006 (7317.006.000) 03/07 13:33:45 Image size of job updated: 102612
+	3  -  MemoryUsage of job (MB)
+	2256  -  ResidentSetSize of job (KB)
+...
+022 (7317.006.000) 03/07 13:39:56 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot7@angrist-16.cs.utexas.edu <128.83.139.143:34441>
+...
+023 (7317.006.000) 03/07 13:39:58 Job reconnected to slot7@angrist-16.cs.utexas.edu
+    startd address: <128.83.139.143:34441>
+    starter address: <128.83.139.143:39731>
+...
+006 (7317.006.000) 03/07 13:43:46 Image size of job updated: 37035476
+	978  -  MemoryUsage of job (MB)
+	1001360  -  ResidentSetSize of job (KB)
+...
+006 (7317.006.000) 03/07 13:48:47 Image size of job updated: 37035476
+	979  -  MemoryUsage of job (MB)
+	1001896  -  ResidentSetSize of job (KB)
+...
+006 (7317.006.000) 03/07 13:53:47 Image size of job updated: 37035476
+	1041  -  MemoryUsage of job (MB)
+	1065780  -  ResidentSetSize of job (KB)
+...
+001 (7317.006.000) 03/07 14:15:45 Job executing on host: <128.83.139.143:34441>
+...
+006 (7317.006.000) 03/07 14:20:53 Image size of job updated: 37500000
+	4111  -  MemoryUsage of job (MB)
+	4209528  -  ResidentSetSize of job (KB)
+...
+001 (7317.006.000) 03/07 19:32:27 Job executing on host: <128.83.130.161:54625>
+...

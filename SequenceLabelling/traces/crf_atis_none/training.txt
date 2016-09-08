@@ -1,0 +1,19 @@
+Training accuracy=0.9985685657028343
+
+Training accuracy=0.9988597491448119
+
+Training accuracy=0.9982578397212544
+
+Training accuracy=0.9991418764302059
+
+Training accuracy=0.9988541965052994
+
+Training accuracy=0.9994266055045872
+
+Training accuracy=0.9991532599491956
+
+Training accuracy=0.9985644559287971
+
+Training accuracy=0.9985718366181091
+
+Training accuracy=0.9988489208633093

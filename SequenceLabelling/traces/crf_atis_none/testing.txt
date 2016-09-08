@@ -1,0 +1,10 @@
+Testing accuracy=0.936046511627907
+Testing accuracy=0.9289940828402367
+Testing accuracy=0.9163916391639164
+Testing accuracy=0.926487747957993
+Testing accuracy=0.925754060324826
+Testing accuracy=0.922543352601156
+Testing accuracy=0.9222222222222223
+Testing accuracy=0.9367816091954023
+Testing accuracy=0.926056338028169
+Testing accuracy=0.9202733485193622

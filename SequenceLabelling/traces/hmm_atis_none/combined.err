@@ -1,0 +1,151 @@
+==> test1.err <==
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8955052963068996
+Testing accuracy=0.8872093023255814
+Out of Vocabulary Accuracy: 0.25
+Total number of Test Tokens: 860
+OOV Tokens: 24
+Percentage: 2.7906976744186047
+Trainer by likelihood done
+
+
+==> test10.err <==
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8939566704675028
+Testing accuracy=0.8745562130177514
+Out of Vocabulary Accuracy: 0.23076923076923078
+Total number of Test Tokens: 845
+OOV Tokens: 26
+Percentage: 3.076923076923077
+Trainer by likelihood done
+
+
+==> test2.err <==
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8893728222996515
+Testing accuracy=0.8613861386138614
+Out of Vocabulary Accuracy: 0.23809523809523808
+Total number of Test Tokens: 909
+OOV Tokens: 21
+Percentage: 2.31023102310231
+Trainer by likelihood done
+
+
+==> test3.err <==
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8858695652173914
+Testing accuracy=0.8763127187864644
+Out of Vocabulary Accuracy: 0.3103448275862069
+Total number of Test Tokens: 857
+OOV Tokens: 29
+Percentage: 3.38389731621937
+Trainer by likelihood done
+
+
+==> test4.err <==
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8925809223718132
+Testing accuracy=0.8897911832946636
+Out of Vocabulary Accuracy: 0.3076923076923077
+Total number of Test Tokens: 862
+OOV Tokens: 26
+Percentage: 3.0162412993039442
+Trainer by likelihood done
+
+
+==> test5.err <==
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8881880733944955
+Testing accuracy=0.8543352601156069
+Out of Vocabulary Accuracy: 0.14814814814814814
+Total number of Test Tokens: 865
+OOV Tokens: 27
+Percentage: 3.121387283236994
+Trainer by likelihood done
+
+
+==> test6.err <==
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8958509737510584
+Testing accuracy=0.8469135802469135
+Out of Vocabulary Accuracy: 0.24
+Total number of Test Tokens: 810
+OOV Tokens: 25
+Percentage: 3.0864197530864197
+Trainer by likelihood done
+
+
+==> test7.err <==
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.892334194659776
+Testing accuracy=0.8804597701149425
+Out of Vocabulary Accuracy: 0.38095238095238093
+Total number of Test Tokens: 870
+OOV Tokens: 21
+Percentage: 2.413793103448276
+Trainer by likelihood done
+
+
+==> test8.err <==
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8911739502999143
+Testing accuracy=0.8626760563380281
+Out of Vocabulary Accuracy: 0.034482758620689655
+Total number of Test Tokens: 852
+OOV Tokens: 29
+Percentage: 3.403755868544601
+Trainer by likelihood done
+
+
+==> test9.err <==
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8866187050359712
+Testing accuracy=0.8507972665148064
+Out of Vocabulary Accuracy: 0.07407407407407407
+Total number of Test Tokens: 878
+OOV Tokens: 27
+Percentage: 3.075170842824601
+Trainer by likelihood done
+
+
+
+
+real	0m2.453s
+user	0m4.409s
+sys	0m0.151s
+
+real	0m2.370s
+user	0m3.505s
+sys	0m0.139s
+
+real	0m2.339s
+user	0m3.674s
+sys	0m0.141s
+
+real	0m2.467s
+user	0m3.995s
+sys	0m0.149s
+
+real	0m2.403s
+user	0m3.902s
+sys	0m0.160s
+
+real	0m2.417s
+user	0m3.691s
+sys	0m0.141s
+
+real	0m2.364s
+user	0m3.677s
+sys	0m0.151s
+
+real	0m2.337s
+user	0m3.613s
+sys	0m0.143s
+
+real	0m2.390s
+user	0m3.781s
+sys	0m0.148s
+
+real	0m2.356s
+user	0m3.606s
+sys	0m0.137s
